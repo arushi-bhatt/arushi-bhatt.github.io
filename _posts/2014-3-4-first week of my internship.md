@@ -10,4 +10,4 @@ So, the first task given to me was to design banners for our coming new launch o
 As a beginner,I started my task, by reading more about sketchnotes, designing freewares like GIMP, INKSCAPE , and KRITA. Though, I laerned at  substantially great level in inkscape, but I preffered GIMP. Gimp works best for bitmap images.
 After a one week's work, I produced the desired result, which you can easily check out on this link : 
 [misc](http://usonmoon.com/misc/)
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
