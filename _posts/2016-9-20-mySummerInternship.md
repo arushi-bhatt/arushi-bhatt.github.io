@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # ** My Summer Internship 2016 at Fourtek IT Solutions Ltd. ! **
+title: My Summer Internship 2016 at Fourtek IT Solutions Ltd. !
 --- 
 In Summer vacations 2016(june and July), I was appointed as an intern for non-tech and designing work at [_Fourtek It Solutions Ltd._](www.fourtek.com){:target="_blank"}, an IT firm in Noida,India.
 That was really an awesome experience to share with you. I got exposure to a lot of things that was much necessary at that stage of my life as a beginnner to corporate tech world.
