@@ -4,12 +4,14 @@ title: About me..
 permalink: /about/
 ---
 
-I love to lay basketball
+Hi! I am Arushi Bhatt, a budding programmer.
+Currently, studying as a Third Year Undergraduate at [Netaji Subhash Institute of Technology](http://www.nsit.ac.in/){:target="_blank"}
+I love to work with good teams and on some awesome projects.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Kindly Check my github profile for overview of the projects that I have worked so far. <https://github.com/arushi-bhatt>
+ 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[arushi131.bhatt@gmail.com](mailto:arushi131.bhatt@gmail.com){:target="_blank"}
