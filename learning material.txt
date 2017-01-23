@@ -1,0 +1,4 @@
+1. Adding Ctrl+"site url" feature , to open the link in new tab.
+
+			[link](url){:target="_blank"}
+
