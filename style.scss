@@ -13,14 +13,16 @@
 /* BASE RULES */
 /**************/
 
-html {text-align: center;
+html {
   font-size: 100%;
 }
 
 body {
-	background: $white;
+	background: $Linen;
   font: 15px/1.4 $helvetica;
   color: $darkGray;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
@@ -47,14 +49,19 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 
-  color: FireBrick;
-  font-size: 18px;
-  
 
- 
+  
+  
+  
+  
+  font-size: 18px;
+  font-family: $sans-serif;
+  color: $MidnightBlue;
+  background-color: $Salmon;
 }
 
 h2 {
+  color: $Purple;
   font-size: 24px;
 }
 
