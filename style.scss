@@ -13,17 +13,19 @@
 /* BASE RULES */
 /**************/
 
-html {
+html {text-align: center;
   font-size: 100%;
 }
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkgray;
+  font: 15px/1.4 $helvetica;
+  color: $darkGray;
 }
 
 .container {
+background: url("https://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg") no-repeat center center;
+  background-size: cover;	
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
