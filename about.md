@@ -9,7 +9,7 @@ Currently, studying as a Third Year Undergraduate at [Netaji Subhash Institute o
 I love to work with good teams and on some awesome projects.
 
 ### More Information
-Kindly Check my github profile for the overview of the projects that I have worked so far. <https://github.com/arushi-bhatt>
+Kindly Check my github profile for the overview of the projects that I have worked so far. <https://github.com/arushi-bhatt>{:target="_blank"}
  
 
 ### Contact me
