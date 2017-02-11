@@ -4,7 +4,7 @@ title: About me..
 permalink: /about/
 ---
 
-Hi! I am Arushi Bhatt, a Budding Programmer.
+Hello! I am Arushi Bhatt, a Budding Programmer.
 Currently, studying as a Third Year Undergraduate at [Netaji Subhash Institute of Technology](http://www.nsit.ac.in/){:target="_blank"}
 I love to work with good teams and on some awesome projects.
 
